@@ -19,3 +19,14 @@ and clean architecture in mind.
 
 ## Project Status
 🚧 Actively under development
+
+## Folder Structure
+src/
+ ├── controllers/   # Handles request/response logic
+ ├── services/      # Business logic layer
+ ├── routes/        # API route definitions
+ ├── models/        # Database schemas
+ ├── middlewares/   # Auth & validation middleware
+ ├── utils/         # Helper functions
+ └── config/        # Environment & DB config
+
