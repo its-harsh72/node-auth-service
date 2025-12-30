@@ -8,7 +8,7 @@ and clean architecture in mind.
 - Express
 - TypeScript
 - MongoDB (planned)
-- JWT Authentication
+- JWT Authentications
 
 ## Features (In Progress)
 - User authentication & authorization
